@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/dai2kai.dir/src/dai2kai.c.o -o dai2kai 
